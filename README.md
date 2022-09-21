@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on SAPUI5
 - 🌱 I’m currently learning SAPUI5 and Blockchain
 - 👯 I’m looking to collaborate on any open-source projects
-- 💬 Ask me about Frontend
+- 💬 Ask me about Frontend, React and TypeScript
 - 📫 How to reach me: bilmadim.uz@gmail.com and on LinkedIn -> https://www.linkedin.com/in/ulugbek-yusupov-590305162/
 
 <!--
