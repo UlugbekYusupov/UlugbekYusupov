@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on SAPUI5, React and NextJS
+- 🔭 I'm currently teaching university students about Frontend from scratch, and showing real-time examples and working on real project that benefit students as portfolio.
 - 🌱 I’m currently learning Backend and Blockchain
 - 👯 I’m looking to collaborate on any open-source projects
 - 💬 Ask me about Frontend, ReactJS,TypeScript, and NextJS
